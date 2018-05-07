@@ -18,7 +18,7 @@ with open(path.join(here, 'requirements.txt')) as f:
 
 setup(
     name='robotframework-rabbitmq',
-    version='1.0.1',
+    version='1.1.0.dev1',
     description='A Robot Framework RabbitMq Library',
     long_description=long_description,
     url='https://github.com/peterservice-rnd/robotframework-rabbitmq',
